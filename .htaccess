@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^cv$ /cv.pdf [L,R=301]
